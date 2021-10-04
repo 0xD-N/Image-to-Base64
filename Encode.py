@@ -36,6 +36,7 @@ def encode(file, output_path=None):
                 
                 print(f"\nBase64 has been outputted in {p}")
         
+        
         #if not then by default save the base64 text to the location of where this file is running
         else:
             
